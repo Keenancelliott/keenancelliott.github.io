@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Keenan Elliott"
+  description: "Epidemiologist, Research Scientist, Data Analyst"
+  search: false
+
+  navbar:
+    background: "#1B3B2B" 
+    foreground: "#FFFFFF"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/keenancelliott
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/keenancelliott
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:keenancelliott@gmail.com
+        aria-label: Email
+
+  page-navigation: true
+  page-footer: 
+    center: "© <script>document.write(new Date().getFullYear())</script> Keenan Elliott"
+
+  open-graph: true
+  twitter-card: true      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true

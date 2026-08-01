@@ -1,0 +1,38 @@
+---
+title: "Keenan Elliott, MPH, MSc"
+image: images/headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/keenancelliott
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/keenancelliott
+    - icon: envelope
+      text: Email
+      href: mailto:keenancelliott@gmail.com
+---
+<style>
+.badge.bg-forest {
+  background-color: #1B3B2B !important;
+  color: #FFFFFF !important;
+  font-weight: 500;
+  padding: 0.5em 0.8em;
+  font-size: 0.9rem;
+}
+</style>
+
+
+I am a Research Data Scientist specializing in epidemiology, longitudinal cohort analysis, and causal inference. My work focuses on data harmonization and advanced statistical methods across multi-center population health cohorts.
+
+## Research Areas:
+
+[Longitudinal Cohort Analytics]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
+
+[Missing Data Methods]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
+
+[Data Harmonization Pipelines]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
+
+[Causal Inference & Mediation Analysis]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
