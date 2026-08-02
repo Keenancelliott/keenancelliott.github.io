@@ -41,4 +41,4 @@ Applying counterfactual mediation analysis to observational health data to decom
 
 ### Metabolic Drivers of Dengue Virus Infection
 * **Role:** Research Assistant
-* **Summary:** Completed a 2+ year masters thesis project investigating the metabolism of virally infected tissues. Designed and developed an experimental and bioinformatic pipeline to identify differentially regulated metabolites in dengue virus-resistant *Aedes aegypti* mosquitoes. Published in *PLoS Neglected Tropical Diseases*.
+* **Summary:** Completed a multi-year masters thesis project investigating the metabolism of virally infected tissues. Designed and developed an experimental and bioinformatic pipeline to identify differentially regulated metabolites in dengue virus-resistant *Aedes aegypti* mosquitoes. Published in *PLoS Neglected Tropical Diseases*.
