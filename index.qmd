@@ -25,14 +25,16 @@ about:
 </style>
 
 
-I am a Research Data Scientist specializing in epidemiology, longitudinal cohort analysis, and causal inference. My work focuses on data harmonization and advanced statistical methods across multi-center population health cohorts.
+I am a Research Scientist specializing in epidemiology, longitudinal analyses, and causal inference. I hold an MPH in Epidemiology and an MSc in Biological Sciences with expertise in communicable diseases and bioinformatics.
 
 ## Research Areas:
 
 [Longitudinal Cohort Analytics]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
 
-[Missing Data Methods]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
+[Missing Data and Harmonization Methods]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
 
-[Data Harmonization Pipelines]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
+[Communicable Disease Epidemiology]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
 
 [Causal Inference & Mediation Analysis]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}
+
+[Experimental Design & Evidence Apprasial]{.badge style="background-color: #1B3B2B; color: #ffffff; padding: 0.5em 0.8em;"}

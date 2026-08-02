@@ -1,0 +1,10 @@
+---
+title: "Resume"
+---
+
+::: {.callout-tip icon=false}
+## Download CV
+[<i class="bi bi-file-earmark-pdf-fill"></i> Download PDF Version](files/Resume_KE.pdf){.btn .btn-success role="button" target="_blank" style="background-color: #1B3B2B; border-color: #1B3B2B;"}
+:::
+
+<iframe src="files/Resume_KE.pdf" width="100%" height="900px" style="border: 1px solid #e0e0e0; border-radius: 6px;"></iframe>

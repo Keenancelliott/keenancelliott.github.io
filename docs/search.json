@@ -1,16 +1,65 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Resume",
+    "section": "",
+    "text": "TipDownload CV\n\n\n\n Download PDF Version"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Keenan Elliott, MPH, MSc",
     "section": "",
-    "text": "I am a Research Data Scientist specializing in epidemiology, longitudinal cohort analysis, and causal inference. My work focuses on data harmonization and advanced statistical methods across multi-center population health cohorts."
+    "text": "I am a Research Scientist specializing in epidemiology, longitudinal analyses, and causal inference. I hold an MPH in Epidemiology and an MSc in Biological Sciences with expertise in communicable diseases and bioinformatics."
   },
   {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
     "title": "Keenan Elliott, MPH, MSc",
     "section": "Research Areas:",
-    "text": "Research Areas:\nLongitudinal Cohort Analytics\nMissing Data Methods\nData Harmonization Pipelines\nCausal Inference & Mediation Analysis"
+    "text": "Research Areas:\nLongitudinal Cohort Analytics\nMissing Data and Harmonization Methods\nCommunicable Disease Epidemiology\nCausal Inference & Mediation Analysis\nExperimental Design & Evidence Apprasial"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I develop robust quantitative frameworks to a range of biological and health datasets including large-scale population health cohorts and bioinformatic datasets. My methodological strengths include robust experimental design, longitudinal modeling, causal inference, and missing data techniques."
+  },
+  {
+    "objectID": "research.html#key-methodological-themes",
+    "href": "research.html#key-methodological-themes",
+    "title": "Research",
+    "section": "Key Methodological Themes",
+    "text": "Key Methodological Themes\n\n\n\n\n\n\nNoteData Harmonization and Validation\n\n\n\nDeveloping reproducible analytical architectures across international multi-center longitudinal studies on Aging (e.g., CLSA, HRS, ELSA). Focus on validating measurement methods, resolving heterogeneity, and standardizing variable derivation.\n\n\n\n\n\n\n\n\nNoteLongitudinal Cohort Analytics & Missing Data\n\n\n\nUsing advanced epidemiological and statistical modelling to understand aging trajectories over extended follow-up periods. Developing robust strategies for handling missing data (MICE) and dropout (IPW).\n\n\n\n\n\n\n\n\nNoteCausal Inference & Mediation\n\n\n\nApplying counterfactual mediation analysis to observational health data to decompose direct and indirect biological and social pathways, and better understand the mechanisms of healthy aging."
+  },
+  {
+    "objectID": "research.html#selected-projects",
+    "href": "research.html#selected-projects",
+    "title": "Research",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nInternational Longitudinal Harmonization Initiative\n\nRole: Research Scientist\nScope: ~500,000 participants across multi-center cohorts\nSummary: Leading a data harmonization project to merge demographic, biological, and health outcome variables across global aging cohorts. Applying counterfactual mediation framework models to evaluate structural drivers of health trajectories, addressing confounders and selection bias in prospective longitudinal data.\n\n\n\nCanadian Wastewater Modelling Report\n\nRole: Student Epidemiologist\nSummary: Redesigned pathogen surveillance reporting methods through an end-to-end automated scripting system for the National Wastewater Monitoring Program. Reduced reporting time from hours to minutes, while improving reporting insights and interpretability.\n\n\n\nMetabolic Drivers of Dengue Virus Infection\n\nRole: Research Assistant\nSummary: Completed a 2+ year masters thesis project investigating the metabolism of virally infected tissues. Designed and developed an experimental and bioinformatic pipeline to identify differentially regulated metabolites in dengue virus-resistant Aedes aegypti mosquitoes. Published in PLoS Neglected Tropical Diseases."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Elliott, K., Caicedo, P. A., Haunerland, N. H., & Lowenberger, C. (2023). Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian Aedes aegypti after dengue virus challenge. PLOS Neglected Tropical Diseases, 17(10), e0011676.\n[DOI]\nMarijan, D., Tse, R., Elliott, K., Chandhok, S., Luo, M., Lacroix, E., & Audas, T. (2019). Stress-specific aggregation of proteins in the amyloid bodies. FEBS Letters, 593(22), 3163–3172.\n[DOI]\nHartwell, R., Chan, B., Elliott, K., Alnojeidi, H., & Ghahary, A. (2016). Polyvinyl alcohol-graft-polyethylene glycol hydrogels improve utility and biofunctionality of injectable collagen biomaterials. Biomedical Materials, 11(3), 035008.\n[DOI]"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Elliott, K., Caicedo, P. A., Haunerland, N. H., & Lowenberger, C. (2023). Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian Aedes aegypti after dengue virus challenge. PLOS Neglected Tropical Diseases, 17(10), e0011676.\n[DOI]\nMarijan, D., Tse, R., Elliott, K., Chandhok, S., Luo, M., Lacroix, E., & Audas, T. (2019). Stress-specific aggregation of proteins in the amyloid bodies. FEBS Letters, 593(22), 3163–3172.\n[DOI]\nHartwell, R., Chan, B., Elliott, K., Alnojeidi, H., & Ghahary, A. (2016). Polyvinyl alcohol-graft-polyethylene glycol hydrogels improve utility and biofunctionality of injectable collagen biomaterials. Biomedical Materials, 11(3), 035008.\n[DOI]"
+  },
+  {
+    "objectID": "publications.html#manuscripts-under-review-in-progress",
+    "href": "publications.html#manuscripts-under-review-in-progress",
+    "title": "Publications",
+    "section": "Manuscripts Under Review & In Progress",
+    "text": "Manuscripts Under Review & In Progress\n\nVereecke, S., Elliott, K., Schrempft, S., Jarvis, I., Gemmell, E., Brauer, M., Kobor, M., Murphy, R., Valeri, L., & Stringhini, S. Social and Environmental Inequalities in Functional Aging among Older Adults: A Mediation Analysis from the Canadian Longitudinal Study on Aging (CLSA). (Under Review).\nElliott, K., Vereecke, S., & Stringhini, S. Allostatic Load Trajectories as a Biological Link Between Socioeconomic Conditions and Mortality in the Canadian Longitudinal Study on Aging (CLSA). (In Progress).\nElliott, K., Caicedo, P. A., Haunerland, N. H., & Lowenberger, C. Metabolomic profiling of dengue virus-resistant and susceptible Aedes aegypti. Current Research in Parasitology & Vector-Borne Diseases. (In Progress)."
   }
 ]

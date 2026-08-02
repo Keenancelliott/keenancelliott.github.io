@@ -1,0 +1,43 @@
+---
+title: "Research"
+description: "**Overview of current research programs and methodological frameworks.**"
+toc: true
+---
+
+I develop robust quantitative frameworks to a range of biological and health datasets including large-scale population health cohorts and bioinformatic datasets. My methodological strengths include robust experimental design, longitudinal modeling, causal inference, and missing data techniques.
+
+---
+
+## Key Methodological Themes
+
+::: {.callout-note appearance="minimal" icon=false}
+### Data Harmonization and Validation
+Developing reproducible analytical architectures across international multi-center longitudinal studies on Aging (e.g., CLSA, HRS, ELSA). Focus on validating measurement methods, resolving heterogeneity, and standardizing variable derivation.
+:::
+
+::: {.callout-note appearance="minimal" icon=false}
+### Longitudinal Cohort Analytics & Missing Data
+Using advanced epidemiological and statistical modelling to understand aging trajectories over extended follow-up periods. Developing robust strategies for handling missing data (MICE) and dropout (IPW).
+:::
+
+::: {.callout-note appearance="minimal" icon=false}
+### Causal Inference & Mediation
+Applying counterfactual mediation analysis to observational health data to decompose direct and indirect biological and social pathways, and better understand the mechanisms of healthy aging. 
+:::
+
+---
+
+## Selected Projects
+
+### International Longitudinal Harmonization Initiative
+* **Role:** Research Scientist
+* **Scope:** ~500,000 participants across multi-center cohorts
+* **Summary:** Leading a data harmonization project to merge demographic, biological, and health outcome variables across global aging cohorts. Applying counterfactual mediation framework models to evaluate structural drivers of health trajectories, addressing confounders and selection bias in prospective longitudinal data.
+
+### Canadian Wastewater Modelling Report
+* **Role:** Student Epidemiologist
+* **Summary:** Redesigned pathogen surveillance reporting methods through an end-to-end automated scripting system for the National Wastewater Monitoring Program. Reduced reporting time from hours to minutes, while improving reporting insights and interpretability.
+
+### Metabolic Drivers of Dengue Virus Infection
+* **Role:** Research Assistant
+* **Summary:** Completed a 2+ year masters thesis project investigating the metabolism of virally infected tissues. Designed and developed an experimental and bioinformatic pipeline to identify differentially regulated metabolites in dengue virus-resistant *Aedes aegypti* mosquitoes. Published in *PLoS Neglected Tropical Diseases*.

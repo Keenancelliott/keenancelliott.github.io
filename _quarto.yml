@@ -17,7 +17,7 @@ website:
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "CV"
+      - text: "Resume"
         href: cv.qmd
     right:
       - icon: github
@@ -41,6 +41,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    mainfont: Arial, "Helvetica Neue", Helvetica, sans-serif
     toc: true
     link-external-icon: false
     link-external-newwindow: true

@@ -1,0 +1,26 @@
+---
+title: "Publications"
+description: "Peer-reviewed journal articles, manuscripts under review, and research in progress."
+toc: true
+---
+
+## Peer-Reviewed Articles
+
+* **Elliott, K.**, Caicedo, P. A., Haunerland, N. H., & Lowenberger, C. (2023). Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian *Aedes aegypti* after dengue virus challenge. **PLOS Neglected Tropical Diseases**, 17(10), e0011676.  
+  [[DOI]](https://doi.org/10.1371/journal.pntd.0011676)
+
+* Marijan, D., Tse, R., **Elliott, K.**, Chandhok, S., Luo, M., Lacroix, E., & Audas, T. (2019). Stress-specific aggregation of proteins in the amyloid bodies. **FEBS Letters**, 593(22), 3163–3172.  
+  [[DOI]]( https://doi.org/10.1002/1873-3468.13597)
+
+* Hartwell, R., Chan, B., **Elliott, K.**, Alnojeidi, H., & Ghahary, A. (2016). Polyvinyl alcohol-graft-polyethylene glycol hydrogels improve utility and biofunctionality of injectable collagen biomaterials. **Biomedical Materials**, 11(3), 035008.  
+  [[DOI]](https://doi.org/10.1088/1748-6041/11/3/035013)
+
+---
+
+## Manuscripts Under Review & In Progress
+
+* Vereecke, S., **Elliott, K.**, Schrempft, S., Jarvis, I., Gemmell, E., Brauer, M., Kobor, M., Murphy, R., Valeri, L., & Stringhini, S. Social and Environmental Inequalities in Functional Aging among Older Adults: A Mediation Analysis from the Canadian Longitudinal Study on Aging (CLSA). *(Under Review)*.
+
+* **Elliott, K.**, Vereecke, S., & Stringhini, S. Allostatic Load Trajectories as a Biological Link Between Socioeconomic Conditions and Mortality in the Canadian Longitudinal Study on Aging (CLSA). *(In Progress)*.
+
+* **Elliott, K.**, Caicedo, P. A., Haunerland, N. H., & Lowenberger, C. Metabolomic profiling of dengue virus-resistant and susceptible *Aedes aegypti*. ***Current Research in Parasitology & Vector-Borne Diseases***. *(In Progress)*.
