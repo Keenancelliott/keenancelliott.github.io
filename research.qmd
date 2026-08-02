@@ -36,7 +36,8 @@ Applying counterfactual mediation analysis to observational health data to decom
 
 ### Canadian Wastewater Modelling Report
 * **Role:** Student Epidemiologist
-* **Summary:** Redesigned pathogen surveillance reporting methods through an end-to-end automated scripting system for the National Wastewater Monitoring Program. Reduced reporting time from hours to minutes, while improving reporting insights and interpretability.
+* **Summary:** Redesigned pathogen surveillance reporting methods through an end-to-end automated scripting system for the National Wastewater Monitoring Program. Reduced reporting time from hours to minutes, while improving reporting insights and interpretability. This report was hosted on the National Collaborating Centre for Infectious Diseases' Website.
+[View an example report (PDF)](files/nccid_report.pdf){target="_blank"}
 
 ### Metabolic Drivers of Dengue Virus Infection
 * **Role:** Research Assistant
